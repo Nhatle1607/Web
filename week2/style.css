@@ -1,0 +1,11 @@
+p {
+  color: red;
+  background-color: aquamarine;
+}
+h1 {
+  color: brown;
+  font-size: 20px;
+}
+.content {
+  background-image: url(../week1/image/d5db6439dd73d9f5071ef8cafa7aa6ac.jpg);
+}

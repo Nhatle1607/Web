@@ -1,0 +1,45 @@
+body {
+  background-color: #d5ebf8;
+  font-family: Arial;
+  padding-top: 150px;
+}
+.login {
+  background-color: white;
+  width: 250px;
+  padding: 30px;
+  border-radius: 7px;
+  margin: auto;
+  box-shadow: 0 5px 10px rgb(150, 150, 150);
+}
+.login h2 {
+  margin-bottom: 20px;
+}
+.login input[type="text"],
+.login input[type="password"] {
+  width: 90%;
+  padding: 8px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: 1px solid rgb(0, 0, 0);
+}
+.content {
+  font-size: 15px;
+}
+.login button {
+  background: #007bff;
+  color: white;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.login p {
+  font-size: 12px;
+  margin-top: 12px;
+}
+.login a {
+  color: #007bff;
+  font-weight: bold;
+}
