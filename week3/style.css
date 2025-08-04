@@ -1,0 +1,27 @@
+h1,
+h2 {
+  color: black;
+}
+p {
+  color: black;
+  font-size: 20px;
+}
+
+.wrap {
+  font-size: 20px;
+}
+.wrap .item:nth-child(2) {
+  color: green;
+  background-color: #eeeeee;
+}
+.wrap .item:nth-child(4) {
+  color: green;
+  background-color: #eeeeee;
+}
+.ghichu {
+  color: red;
+  font-size: 20px;
+}
+.hang {
+  background-color: blanchedalmond;
+}
